@@ -1,3 +1,1 @@
-import example from "./geometry/exmaple";
-
-export { example };
+export { default as geometry } from "./geometry";
