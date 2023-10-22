@@ -1,12 +1,14 @@
+# What is WebGL and why using Three.js
+
+> 本章主要是了解 Three.JS 与 WebGl 的关系
+
 # 1.Basics
 
 > 基础篇章：了解 ThreeJS 基本原理如场景、相机、几何形状、材料、纹理贴图等。学会创建第一个场景，添加一个调试面板来调整你的环境和动画。
 
-## Introduction
-
-## What is WebGL and why using Three.js
-
 ## Basic scene
+
+> 本章主要内容是对场景（Scene）属性的了解，无论是 web3D、3D 游戏开发、3D 工具等都存在场景（Scene）这个核心属性。它就像一个建筑环境，承载着整个视觉渲染的所以逻辑。
 
 ## Webpack
 
