@@ -2,6 +2,8 @@
 
 ༼ つ ◕_◕ ༽つ 🐛
 
+> Three.js Journey Learning cases and notes
+
 # 📦install
 
 ```bash
