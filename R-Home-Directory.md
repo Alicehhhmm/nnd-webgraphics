@@ -26,6 +26,8 @@
 
 ## Fullscreen and resizing
 
+> 针对不同浏览器的全屏模式，做相对的兼容过滤
+
 ## Geometries
 
 ## Debug UI

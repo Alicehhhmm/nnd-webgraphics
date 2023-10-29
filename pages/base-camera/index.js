@@ -78,7 +78,7 @@ function animate() {
   const elapsedTime = clock.getElapsedTime()
 
   // update object animations
-  // mesh.rotation.y = -elapsedTime
+  // mesh.rotation.y = elapsedTime
 
   // update camera
   // camera.position.x = cursor.x * 2
