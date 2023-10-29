@@ -22,6 +22,8 @@
 
 ## Cameras
 
+> 了解不同相机的作用，以及不同控制器的不同用处
+
 ## Fullscreen and resizing
 
 ## Geometries
