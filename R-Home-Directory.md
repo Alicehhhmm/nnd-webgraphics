@@ -44,7 +44,9 @@
 
 ## Debug UI
 
-> 模型属性可视化调节器的使用
+> 模型属性可视化调节器的使用,将需要调节的属性通过 GUI 控制
+
+![Alt text](image-3.png)
 
 ## Textures
 

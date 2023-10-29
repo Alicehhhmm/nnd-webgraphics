@@ -4,7 +4,8 @@ import "./public/style/style.css"
 // import transforms from "./pages/base-transforms-objects"
 // import camera from "./pages/base-camera"
 // import fullScreen from "./pages/base-full-screen"
-import baseGeometry from "./pages/base-geometry"
+// import baseGeometry from "./pages/base-geometry"
+import controlsOption from "./pages/base-debug-ui"
 
 // geometry()
 // atemplate()
@@ -12,4 +13,5 @@ import baseGeometry from "./pages/base-geometry"
 // animations()
 // camera()
 // fullScreen()
-baseGeometry()
+// baseGeometry()
+controlsOption()
