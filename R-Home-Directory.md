@@ -18,6 +18,8 @@
 
 ## Animations
 
+> 让物体动起来，结合 GSAP 动画库，控制物体需要移动的轨迹
+
 ## Cameras
 
 ## Fullscreen and resizing
