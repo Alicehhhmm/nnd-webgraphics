@@ -30,7 +30,21 @@
 
 ## Geometries
 
+> 普通几何图形与缓冲（矩阵三元组）图形的不同。
+> 通过缓冲方式绘制的图形，由无数个三角形构造而成，并且相邻的三角可以共用顶点，能极大的减少 GUP 的计算消耗
+
+三元组: `|A点|B点|C点|` **=>** `|x,y,z|x,y,z|x,y,z|`
+![Alt text](image.png)
+
+矩阵方式（缓冲）：500 个三角
+![Alt text](image-1.png)
+
+基础方式：
+![Alt text](image-2.png)
+
 ## Debug UI
+
+> 模型属性可视化调节器的使用
 
 ## Textures
 
