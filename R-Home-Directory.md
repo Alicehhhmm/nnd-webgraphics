@@ -14,6 +14,8 @@
 
 ## Transforms objects
 
+> 物体的位移、旋转、缩放、组合
+
 ## Animations
 
 ## Cameras

@@ -1,10 +1,8 @@
 import "./public/style/style.css"
-import geometry from "./pages/geometry"
-import atemplate from "./pages/atamplate"
+// import geometry from "./pages/geometry"
+// import atemplate from "./pages/atamplate"
+import transforms from "./pages/base-transforms-objects"
 
-/**
- * @description geometry case
- * @param geometry|正方体
- */
-geometry()
+// geometry()
 // atemplate()
+transforms()
