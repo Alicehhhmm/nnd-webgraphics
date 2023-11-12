@@ -5,7 +5,8 @@ import "./public/style/style.css"
 // import camera from "./pages/base-camera"
 // import fullScreen from "./pages/base-full-screen"
 // import baseGeometry from "./pages/base-geometry"
-import controlsOption from "./pages/base-debug-ui"
+// import controlsOption from "./pages/base-debug-ui"
+import textures from "./pages/base11-textures"
 
 // geometry()
 // atemplate()
@@ -14,4 +15,5 @@ import controlsOption from "./pages/base-debug-ui"
 // camera()
 // fullScreen()
 // baseGeometry()
-controlsOption()
+// controlsOption()
+textures()

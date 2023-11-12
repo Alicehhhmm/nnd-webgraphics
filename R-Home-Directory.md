@@ -34,19 +34,19 @@
 > 通过缓冲方式绘制的图形，由无数个三角形构造而成，并且相邻的三角可以共用顶点，能极大的减少 GUP 的计算消耗
 
 三元组: `|A点|B点|C点|` **=>** `|x,y,z|x,y,z|x,y,z|`
-![Alt text](image.png)
+![Alt text](/public/assets/md-img/image.png)
 
 矩阵方式（缓冲）：500 个三角
-![Alt text](image-1.png)
+![Alt text](/public/assets/md-img/image-1.png)
 
 基础方式：
-![Alt text](image-2.png)
+![Alt text](/public/assets/md-img/image-2.png)
 
 ## Debug UI
 
 > 模型属性可视化调节器的使用,将需要调节的属性通过 GUI 控制
 
-![Alt text](image-3.png)
+![Alt text](/public/assets/md-img/image-3.png)
 
 ## Textures
 
