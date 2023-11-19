@@ -7,17 +7,11 @@ import "./public/style/style.css"
 // import baseGeometry from "./pages/base-geometry"
 // import controlsOption from "./pages/base-debug-ui"
 // import textures from "./pages/base11-textures"
-import N3Keyboard from "./pages/case/N3-Keyboard"
+// import N3Keyboard from "./pages/case/N3-Keyboard"
+import Materials from "./pages/base12-materials"
 
-// geometry()
-// atemplate()
-// transforms()
-// animations()
-// camera()
-// fullScreen()
-// baseGeometry()
-// controlsOption()
-// textures()
+// # Base
+Materials()
 
 // Case
-N3Keyboard()
+// N3Keyboard()
