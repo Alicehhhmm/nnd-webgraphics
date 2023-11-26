@@ -1,6 +1,6 @@
 import "./public/style/style.css"
 // import geometry from
-import BaseDemo from "./pages/base13-text"
+import BaseDemo from "./pages/base14-lights"
 
 // # Base
 BaseDemo()
