@@ -163,7 +163,6 @@ window.addEventListener("dblclick", () => {
 })
 
 // GUI
-
 gui.add(axesHelper, "visible").name("显示坐标轴辅助线").setValue(false)
 gui.add(material, "wireframe").name("显示网格")
 gui.add(ambientLight, "intensity").name("环境光").min(0.5).max(1).step(0.05)
