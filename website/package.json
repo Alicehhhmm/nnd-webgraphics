@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "website",
+  "description": "Norush Note Document - Web Graphics",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Norush",
+    "url": "https://github.com/Alicehhhmm"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^4.0.0",
+    "vue": "3.5.22",
+    "vitepress": "1.6.4"
+  }
+}

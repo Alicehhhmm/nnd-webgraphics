@@ -1,0 +1,10 @@
+*.md
+*.vue
+*.yaml
+
+dist
+cache
+temp
+.temp
+
+!CHANGELOG.md
