@@ -6,6 +6,9 @@ hero:
   name: "NND WebGraphics"
   text: "一个web图形笔记文档"
   tagline: 记录与收集web图形相关的知识与经验
+  image:
+      src: /notebook.png
+      alt: NND Logo
   actions:
     - theme: brand
       text: 阅读需知

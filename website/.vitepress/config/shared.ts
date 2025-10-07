@@ -10,7 +10,7 @@ export const sharedConfig = defineConfig({
   metaChunk: true,
 
   themeConfig: {
-    logo: { src: '', width: 24, height: 24 },
+    logo: { src: '/notebook.png' },
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/Alicehhhmm/nnd-webgraphics.git' }],
 
@@ -30,7 +30,7 @@ export const sharedConfig = defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/notebook.png' }],
     ['meta', { property: 'og:type', content: 'website' }],
     [
       'meta',

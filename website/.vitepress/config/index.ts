@@ -5,11 +5,10 @@ import { navZh } from './nav-zh'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: '..\\website\\docs',
+  srcDir: '..\\website',
 
   title: 'NND-WebGraphics',
   description: 'Norush Note Document - Web Graphics',
-  base: '/nnd/',
 
   ...sharedConfig,
 
