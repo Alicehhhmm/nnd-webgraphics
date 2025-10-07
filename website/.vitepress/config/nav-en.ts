@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export const navEn = defineConfig({
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/Alicehhhmm/nnd-threejs/tree/edit/main/website/docs/:path',
+      pattern: 'https://github.com/Alicehhhmm/nnd-webgraphics/tree/main/website/docs/:path',
       text: 'Edit this page on GitHub',
     },
 

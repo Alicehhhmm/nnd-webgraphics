@@ -12,7 +12,7 @@ export const sharedConfig = defineConfig({
   themeConfig: {
     logo: { src: '', width: 24, height: 24 },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Alicehhhmm/nnd-threejs.git' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Alicehhhmm/nnd-webgraphics.git' }],
 
     search: {
       provider: 'algolia',
