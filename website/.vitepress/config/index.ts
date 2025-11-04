@@ -13,8 +13,8 @@ export default defineConfig({
   ...sharedConfig,
 
   locales: {
-    root: { label: 'English', lang: 'en-US', dir: 'ltr', ...navEn },
-    zh: { label: '简体中文', lang: 'zh-Hans', dir: 'ltr', ...navZh },
+    root: { label: '简体中文', lang: 'zh-CN', dir: 'ltr', ...navZh },
+    en: { label: 'English', lang: 'en-US', dir: 'ltr', ...navEn },
   },
 
   markdown: {
