@@ -11,12 +11,14 @@ export const navZh = defineConfig({
     nav: [
       { text: '首页', link: '/zh/' },
       { text: '阅读指南', link: '/zh/guide' },
+      { text: '资源', link: '/zh/resources' },
       { text: '示例', link: '/zh/examples' },
       { text: 'ThreeJS', link: '/zh/threejs' },
     ],
 
     sidebar: {
       '/zh/guide': { base: '/zh/guide/', items: sidebarGuide() },
+      '/zh/resources': { base: '/zh/resources/', items: sidebarResources() },
       '/zh/threejs': { base: '/zh/threejs/', items: sidebarThreejs() },
       '/zh/examples': { base: '/zh/examples/', items: sidebarExamples() },
     },
@@ -60,6 +62,14 @@ function sidebarGuide (): DefaultTheme.SidebarItem[] {
     { text: '配色方案', link: 'color-scheme' },
   ]
 }
+
+function sidebarResources (): DefaultTheme.SidebarItem[] {
+  return [
+    { text: '资源总览', link: '/' },
+  ]
+}
+
+
 
 function sidebarExamples (): DefaultTheme.SidebarItem[] {
   return [

@@ -24,3 +24,7 @@ yarn.lock
 
 # vitepress
 cache
+
+# Ai
+.cursor
+.qwen
